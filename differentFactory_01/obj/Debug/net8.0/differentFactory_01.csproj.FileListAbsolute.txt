@@ -1,0 +1,14 @@
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\obj\Debug\net8.0\differentFactory_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\obj\Debug\net8.0\differentFactory_01.AssemblyInfoInputs.cache
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\obj\Debug\net8.0\differentFactory_01.AssemblyInfo.cs
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\obj\Debug\net8.0\differentFactory_01.csproj.CoreCompileInputs.cache
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\bin\Debug\net8.0\differentFactory_01.exe
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\bin\Debug\net8.0\differentFactory_01.deps.json
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\bin\Debug\net8.0\differentFactory_01.runtimeconfig.json
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\bin\Debug\net8.0\differentFactory_01.dll
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\bin\Debug\net8.0\differentFactory_01.pdb
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\obj\Debug\net8.0\differentFactory_01.dll
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\obj\Debug\net8.0\refint\differentFactory_01.dll
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\obj\Debug\net8.0\differentFactory_01.pdb
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\obj\Debug\net8.0\differentFactory_01.genruntimeconfig.cache
+C:\Users\dissm\RiderProjects\differentFactory_01\differentFactory_01\obj\Debug\net8.0\ref\differentFactory_01.dll
